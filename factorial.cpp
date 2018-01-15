@@ -8,8 +8,8 @@ int factorial (int number) {
   }
 }
 int main() {
-    int number;
-    cout<<"Enter a number: ";
-    cin>>number;
-    cout<<"Factorial: "<<factorial(number);
+  int number;
+  cout<<"Enter a number: ";
+  cin>>number;
+  cout<<"Factorial: "<<factorial(number);
 }
